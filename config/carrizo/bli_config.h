@@ -36,8 +36,8 @@
 #define BLIS_CONFIG_H
 
 
-//#define BLIS_ENABLE_PTHREADS
-#define BLIS_ENABLE_OPENMP
+#define BLIS_ENABLE_PTHREADS
+#define BLIS_ENABLE_CBLAS
 
 #define BLIS_SIMD_ALIGN_SIZE             16
 

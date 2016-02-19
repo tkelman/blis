@@ -36,6 +36,8 @@
 #define BLIS_CONFIG_H
 
 
+#define BLIS_ENABLE_PTHREADS
+#define BLIS_ENABLE_CBLAS
 
 #endif
 

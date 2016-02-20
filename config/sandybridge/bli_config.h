@@ -38,6 +38,7 @@
 // Enable multithreading via POSIX threads.
 #define BLIS_ENABLE_PTHREADS
 #define BLIS_ENABLE_CBLAS
+#define BLIS_BLAS2BLIS_INT_TYPE_SIZE 64
 
 // Enable multithreading via OpenMP.
 
